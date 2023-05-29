@@ -1,10 +1,10 @@
 ENT.Type = "anim"
 ENT.Base = "base_gmodentity"
-ENT.Author = "BIBI"
+ENT.Author = "MrMarrant"
 ENT.PrintName = "SCP-024-FR"
 ENT.Purpose = "Et maintenant, on est cool ?"
 ENT.Spawnable = true
-ENT.Category = "BIBI entities"
+ENT.Category = "SCP"
 
 ENT.DistanceEffect = 70 -- Distance effect of the object.  -- TODO Revoir la taille de la place de son confinement.
 
